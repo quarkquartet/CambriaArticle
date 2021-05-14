@@ -49,7 +49,6 @@ The options defined for the style below will be used at the Notebook level.\
 \>", "Text"],
 
 Cell[StyleData["Notebook"],
- WindowToolbars->{"EditBar"},
  WindowSize->{400, 400},
  PageHeaders->{{
     Cell[
